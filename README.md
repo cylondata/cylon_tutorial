@@ -1,6 +1,6 @@
 # Instructions 
 
-[comment]: < TODO Fix the CMake file! > 
+TODO Fix the CMake file!
 
 ## Data 
 
